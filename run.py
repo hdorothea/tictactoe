@@ -1,4 +1,4 @@
-'''Script and Functions to run the commandline version of the tictactoe'''
+'''Script and Functions to run the commandline version of the tic-tac-toe'''
 from player import *
 from game import *
 
